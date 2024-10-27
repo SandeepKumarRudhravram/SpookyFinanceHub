@@ -1,0 +1,83 @@
+[2022-10-13 02:11:04,387][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2022-10-13 02:11:04,391][worker-0][INFO] Initialized CORS
+[2022-10-13 02:11:04,391][worker-0][INFO] App Initialization is finished successfully
+[2024-10-26 15:16:43,143][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2024-10-26 15:16:43,144][worker-0][INFO] Initialized CORS
+[2024-10-26 15:16:43,145][worker-0][INFO] App Initialization is finished successfully
+[2024-10-26 15:38:31,700][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2024-10-26 15:38:31,701][worker-0][INFO] Initialized CORS
+[2024-10-26 15:38:31,701][worker-0][INFO] App Initialization is finished successfully
+[2024-10-26 16:02:22,026][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2024-10-26 16:02:22,029][worker-0][INFO] Initialized CORS
+[2024-10-26 16:02:22,029][worker-0][INFO] App Initialization is finished successfully
+[2024-10-26 16:09:30,304][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2024-10-26 16:09:30,307][worker-0][INFO] Initialized CORS
+[2024-10-26 16:09:30,307][worker-0][INFO] App Initialization is finished successfully
+[2024-10-26 16:13:52,975][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2024-10-26 16:13:52,978][worker-0][ERROR] An error happened during initializing app components: View function mapping is overwriting an existing endpoint function: view.get_articles
+[2024-10-26 16:14:00,124][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2024-10-26 16:14:00,126][worker-0][INFO] Initialized CORS
+[2024-10-26 16:14:00,126][worker-0][INFO] App Initialization is finished successfully
+[2024-10-26 16:14:17,808][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2024-10-26 16:14:17,810][worker-0][INFO] Initialized CORS
+[2024-10-26 16:14:17,810][worker-0][INFO] App Initialization is finished successfully
+[2024-10-26 16:19:55,980][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2024-10-26 16:19:55,983][worker-0][INFO] Initialized CORS
+[2024-10-26 16:19:55,983][worker-0][INFO] App Initialization is finished successfully
+[2024-10-26 16:20:01,586][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2024-10-26 16:20:01,588][worker-0][INFO] Initialized CORS
+[2024-10-26 16:20:01,588][worker-0][INFO] App Initialization is finished successfully
+[2024-10-26 16:21:55,533][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2024-10-26 16:21:55,536][worker-0][INFO] Initialized CORS
+[2024-10-26 16:21:55,536][worker-0][INFO] App Initialization is finished successfully
+[2024-10-27 06:14:24,457][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2024-10-27 06:14:24,619][worker-0][ERROR] An error happened during initializing app components: name 'app' is not defined
+[2024-10-27 06:14:41,041][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2024-10-27 06:14:41,132][worker-0][ERROR] An error happened during initializing app components: name 'app' is not defined
+[2024-10-27 06:15:14,158][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2024-10-27 06:15:14,273][worker-0][INFO] Initialized CORS
+[2024-10-27 06:15:14,273][worker-0][INFO] App Initialization is finished successfully
+[2024-10-27 06:23:59,932][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2024-10-27 06:24:00,882][worker-0][INFO] Initialized CORS
+[2024-10-27 06:24:00,882][worker-0][INFO] App Initialization is finished successfully
+[2024-10-27 06:25:45,701][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2024-10-27 06:25:46,185][worker-0][INFO] Initialized CORS
+[2024-10-27 06:25:46,185][worker-0][INFO] App Initialization is finished successfully
+[2024-10-27 06:27:06,191][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2024-10-27 06:27:06,822][worker-0][INFO] Initialized CORS
+[2024-10-27 06:27:06,822][worker-0][INFO] App Initialization is finished successfully
+[2024-10-27 06:28:49,128][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2024-10-27 06:28:49,623][worker-0][INFO] Initialized CORS
+[2024-10-27 06:28:49,623][worker-0][INFO] App Initialization is finished successfully
+[2024-10-27 06:29:33,833][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2024-10-27 06:29:34,249][worker-0][INFO] Initialized CORS
+[2024-10-27 06:29:34,249][worker-0][INFO] App Initialization is finished successfully
+[2024-10-27 11:07:51,011][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2024-10-27 11:07:52,515][worker-0][ERROR] An error happened during initializing app components: View function mapping is overwriting an existing endpoint function: view.real_time_price
+[2024-10-27 11:08:51,788][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2024-10-27 11:08:52,425][worker-0][INFO] Initialized CORS
+[2024-10-27 11:08:52,425][worker-0][INFO] App Initialization is finished successfully
+[2024-10-27 11:10:23,227][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2024-10-27 11:10:23,768][worker-0][INFO] Initialized CORS
+[2024-10-27 11:10:23,768][worker-0][INFO] App Initialization is finished successfully
+[2024-10-27 11:10:43,662][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2024-10-27 11:10:44,190][worker-0][INFO] Initialized CORS
+[2024-10-27 11:10:44,190][worker-0][INFO] App Initialization is finished successfully
+[2024-10-27 11:12:22,768][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2024-10-27 11:12:23,296][worker-0][INFO] Initialized CORS
+[2024-10-27 11:12:23,297][worker-0][INFO] App Initialization is finished successfully
+[2024-10-27 11:12:46,148][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2024-10-27 11:12:46,628][worker-0][INFO] Initialized CORS
+[2024-10-27 11:12:46,628][worker-0][INFO] App Initialization is finished successfully
+[2024-10-27 11:13:03,194][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2024-10-27 11:13:03,813][worker-0][INFO] Initialized CORS
+[2024-10-27 11:13:03,813][worker-0][INFO] App Initialization is finished successfully
+[2024-10-27 11:15:10,374][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2024-10-27 11:15:10,941][worker-0][INFO] Initialized CORS
+[2024-10-27 11:15:10,941][worker-0][INFO] App Initialization is finished successfully
+[2024-10-27 11:15:32,302][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2024-10-27 11:15:32,723][worker-0][INFO] Initialized CORS
+[2024-10-27 11:15:32,723][worker-0][INFO] App Initialization is finished successfully
+[2024-10-27 11:21:48,821][worker-0][INFO] Initialized logger with level 10 for worker 0
+[2024-10-27 11:21:49,492][worker-0][INFO] Initialized CORS
+[2024-10-27 11:21:49,492][worker-0][INFO] App Initialization is finished successfully
